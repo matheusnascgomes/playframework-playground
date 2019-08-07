@@ -1,9 +1,11 @@
+import play.ebean.sbt.PlayEbean
+
 name := """play-scala-seed"""
 organization := "com.example"
 
 version := "1.0-SNAPSHOT"
 
-lazy val root = (project in file(".")).enablePlugins(PlayScala)
+lazy val root = (project in file(".")).enablePlugins(PlayScala, PlayJava, PlayEbean)
 
 scalaVersion := "2.13.0"
 

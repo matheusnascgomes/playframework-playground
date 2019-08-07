@@ -1,5 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/matheus/Documentos/projetos/playframework-playground/conf/routes,/home/matheus/Documentos/projetos/playframework-playground/target/scala-2.13/classes/routes)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/matheus/Documentos/projetos/playframework-playground/conf/logback.xml,/home/matheus/Documentos/projetos/playframework-playground/target/scala-2.13/classes/logback.xml)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/matheus/Documentos/projetos/playframework-playground/conf/application.conf,/home/matheus/Documentos/projetos/playframework-playground/target/scala-2.13/classes/application.conf)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/matheus/Documentos/projetos/playframework-playground/conf/messages,/home/matheus/Documentos/projetos/playframework-playground/target/scala-2.13/classes/messages)[0m
