@@ -1,4 +1,4 @@
-# Play Hello World Web Tutorial for Scala
+# A simple Play Framework + Ebean configuration From Scratch
 
 To follow the steps in this tutorial, you will need the correct version of Java and sbt. The template requires:
 
