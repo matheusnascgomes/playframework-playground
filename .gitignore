@@ -1,2 +1,25 @@
+# Ignore Play! working directory #
+bin/
+.eclipse
+/modules
+test-result
+server.pid
+*.iml
+*.eml
+.cache
+logs
+project/project
+project/target
+target
+tmp
 .idea
-/target/*
+.idea_modules
+db
+.classpath
+.project
+.settings
+out
+conf/mail.conf
+documentation/
+database.conf
+Thumbs.db
